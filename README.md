@@ -9,7 +9,7 @@ By the analysis of the dataset, these are the conclusions drawn:
 6) France 1
 7) Spain 1
 8) England 1
-<br>
+<br></br>
 ❖ Number of Goal Per Country:
 Germany 235.0
 Brazil 225.0
